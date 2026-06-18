@@ -5,6 +5,7 @@ This project focuses on automating data cleaning and reporting using Power BI. T
 
 
 🎯 Objectives
+
 Automate data cleaning process before visualization
 Ensure high-quality and consistent dataset
 Build interactive dashboards using Power BI
