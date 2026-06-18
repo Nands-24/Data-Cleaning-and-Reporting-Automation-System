@@ -3,6 +3,7 @@
 
 This project focuses on automating data cleaning and reporting using Power BI. The raw dataset is processed to remove errors, handle missing values, and eliminate duplicates. After cleaning, the data is transformed into interactive dashboards in Power BI for better business insights and decision-making.
 
+
 🎯 Objectives
 Automate data cleaning process before visualization
 Ensure high-quality and consistent dataset
