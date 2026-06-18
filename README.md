@@ -1,46 +1,50 @@
-md
-📊 Data Cleaning and Reporting Automation System
+📊 Data Cleaning and Reporting Automation System (Power BI)
 📌 Project Overview
 
-This project focuses on automating the process of data cleaning and reporting to reduce manual effort and improve data accuracy. The system takes raw datasets, performs cleaning operations like handling missing values, removing duplicates, and standardizing formats, and finally generates meaningful reports for analysis.
+This project focuses on automating data cleaning and reporting using Power BI. The raw dataset is processed to remove errors, handle missing values, and eliminate duplicates. After cleaning, the data is transformed into interactive dashboards in Power BI for better business insights and decision-making.
 
 🎯 Objectives
-Automate data preprocessing and cleaning tasks
-Improve data quality and consistency
-Reduce manual effort in data handling
-Generate automated reports for decision-making
-Visualize cleaned data insights effectively
-🛠️ Technologies Used
-Python 🐍
-Pandas
-NumPy
-Matplotlib / Seaborn (for visualization)
-Power BI (optional for reporting)
-Jupyter Notebook
+Automate data cleaning process before visualization
+Ensure high-quality and consistent dataset
+Build interactive dashboards using Power BI
+Reduce manual reporting effort
+Improve decision-making through visual insights
+🛠️ Tools & Technologies
+Power BI Desktop 📊
+Excel / CSV Dataset
+Power Query Editor (for Data Cleaning)
+DAX (Data Analysis Expressions)
+Data Modeling
 ⚙️ Workflow
-Import raw dataset (Excel / CSV)
-Data inspection and understanding
-Handle missing values
+Import raw dataset into Power BI
+Open Power Query Editor
+Clean data:
 Remove duplicates
-Standardize data formats
-Feature cleaning / transformation
-Generate cleaned dataset
-Create automated reports & visualizations
-📊 Features
-Automated missing value handling
-Duplicate detection and removal
-Email/domain or categorical standardization
-Clean dataset export (CSV/Excel)
-Automated report generation with charts
-📁 Output
-Cleaned dataset file (cleaned_data.csv)
-Summary report
-Visual dashboards (optional Power BI report)
-🚀 Future Improvements
-Real-time data cleaning pipeline
-AI-based anomaly detection
-Cloud integration (AWS / Azure)
-Web dashboard for live reporting
+Handle missing values
+Change data types
+Standardize columns
+Apply transformations
+Load cleaned data into Power BI model
+Create relationships between tables (if needed)
+Build dashboards & reports
+Publish or export report
+📊 Key Features
+Automated data cleaning using Power Query
+Interactive dashboards
+KPI tracking cards
+Filter and slicer options
+Real-time insights from cleaned data
+📈 Sample Visuals (in Power BI)
+KPI Cards (Total Sales / Count / Revenue etc.)
+Bar Chart (Category-wise analysis)
+Pie Chart (Distribution analysis)
+Line Chart (Trend analysis)
+Table View (Clean dataset)
+🚀 Future Enhancements
+Connect live databases (SQL / APIs)
+Automate data refresh in Power BI Service
+Add AI insights feature
+Cloud-based reporting system
 👨‍💻 Author
 Nandhini H
-Data Analytics / Full Stack Learner
+Data Analytics / Power BI Project
